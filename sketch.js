@@ -68,9 +68,7 @@ function setup() {
 
 }
 function draw() {
-  if(backgroundImg){
-    background(backgroundImg);
-    }
+  if(255)
 
   stroke(210,190,200)
   textSize(30);
